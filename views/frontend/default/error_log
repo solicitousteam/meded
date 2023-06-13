@@ -1,0 +1,20 @@
+[07-Oct-2022 15:57:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_frontend_settings() in /home/solicitous/public_html/meded4/application/views/frontend/default/sign_up.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/frontend/default/sign_up.php on line 1
+[07-Oct-2022 15:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_frontend_settings() in /home/solicitous/public_html/meded4/application/views/frontend/default/student_sign_up.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/frontend/default/student_sign_up.php on line 1
+[07-Oct-2022 15:57:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/solicitous/public_html/meded4/application/views/frontend/default/webinar.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/frontend/default/webinar.php on line 6
+[07-Oct-2022 15:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/solicitous/public_html/meded4/application/views/frontend/default/blog.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/frontend/default/blog.php on line 7
+[07-Oct-2022 15:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/solicitous/public_html/meded4/application/views/frontend/default/banner_request.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/frontend/default/banner_request.php on line 7

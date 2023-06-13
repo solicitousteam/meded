@@ -1,0 +1,28 @@
+[07-Oct-2022 15:58:17 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/solicitous/public_html/meded4/application/views/backend/admin/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/backend/admin/dashboard.php on line 2
+[08-Oct-2022 04:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_phrase() in /home/solicitous/public_html/meded4/application/views/backend/admin/add_banner.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/backend/admin/add_banner.php on line 9
+[08-Oct-2022 04:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/solicitous/public_html/meded4/application/views/backend/admin/addon_add.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/backend/admin/addon_add.php on line 7
+[08-Oct-2022 04:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/solicitous/public_html/meded4/application/views/backend/admin/coupon.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/backend/admin/coupon.php on line 6
+[08-Oct-2022 04:39:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_phrase() in /home/solicitous/public_html/meded4/application/views/backend/admin/courses.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/backend/admin/courses.php on line 8
+[08-Oct-2022 04:40:02 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/solicitous/public_html/meded4/application/views/backend/admin/dashboard-chart.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/backend/admin/dashboard-chart.php on line 10
+[08-Oct-2022 04:40:09 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/solicitous/public_html/meded4/application/views/backend/admin/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/solicitous/public_html/meded4/application/views/backend/admin/dashboard.php on line 2
